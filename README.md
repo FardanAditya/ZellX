@@ -18,7 +18,7 @@
 
 ### Hire me for some project on
 
-<a href="https://instagram.com/danadtya_?igshid=MzNlNGNkZWQ4Mg=="> <img src="https://media.discordapp.net/attachments/1021013887576985630/1114974876315422880/images_15.jpg"/></a>
+<a href="https://instagram.com/danadtya_?igshid=MzNlNGNkZWQ4Mg=="> <img src="https://media.discordapp.net/attachments/1021013887576985630/1114974876315422880/images_15.jpg" width="120" align="right">
 
 
   
