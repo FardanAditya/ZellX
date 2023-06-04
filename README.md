@@ -1,4 +1,6 @@
 #### Platform&Tools
+<img src="https://media.discordapp.net/attachments/1021013887576985630/1114966165660377088/IMG_20230605_000722_907.jpg" width="120" align="left">
+
 
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 
@@ -6,7 +8,6 @@
 
 [![](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)](https://nodejs.org/)
 
-<img src="https://media.discordapp.net/attachments/1021013887576985630/1114966165660377088/IMG_20230605_000722_907.jpg" width="120" align="left">
 
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 
