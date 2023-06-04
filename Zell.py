@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-#Code by LeeOn123 Remake & Upgrade Tools By Igametopia
+#!/usr/bin/env
 import os
 import sys
 import random
@@ -7,18 +6,10 @@ import socket
 import threading
 import time
 
-os.system('color ' +random.choice(['a', 'b', 'c', 'd', 'e'])+ " & title IgamePersonal")
-print("""
-██╗ ██████╗  █████╗ ███╗   ███╗███████╗████████╗ ██████╗ ██████╗ ██╗ █████╗ 
-██║██╔════╝ ██╔══██╗████╗ ████║██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗██║██╔══██╗
-██║██║  ███╗███████║██╔████╔██║█████╗     ██║   ██║   ██║██████╔╝██║███████║
-██║██║   ██║██╔══██║██║╚██╔╝██║██╔══╝     ██║   ██║   ██║██╔═══╝ ██║██╔══██║
-██║╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗   ██║   ╚██████╔╝██║     ██║██║  ██║
-╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝   ╚═╝    ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝                                                                                               
-                                                                             """)
+os.system('color ' +random.choice(['a', 'b', 'c', 'd', 'e'])+ " & title Anzay")
 
 print("Tools Version : Personal")
-print("Tools By : Igametopia")
+print("Tools By : Vertaa")
 print("Tools Personal Max Send 6 GBPS")
 
 ip = str(input(">> IP Address :"))
