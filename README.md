@@ -1,5 +1,5 @@
 #### Platform&Tools
-<img src="https://media.discordapp.net/attachments/1021013887576985630/1114966165660377088/IMG_20230605_000722_907.jpg" width="130" align="left">
+<img src="https://media.discordapp.net/attachments/1021013887576985630/1114966165660377088/IMG_20230605_000722_907.jpg" width="110" align="left">
 
 
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
