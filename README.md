@@ -1,6 +1,6 @@
 #### Platform&Tools
 
-[![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
+![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
 
 [![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://nodejs.org/)
 
